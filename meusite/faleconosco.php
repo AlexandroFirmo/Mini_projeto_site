@@ -10,6 +10,6 @@
 		</form>
 	</div>
 	<div class="col-md-6">
-		<img class="img-responsive img-rounded" src="faleconosco.jpg" width="600" height="400"/>
+		<img class="img-responsive img-rounded" src="imagens/faleconosco.jpg" width="600" height="400"/>
 	</div>
 </div>
