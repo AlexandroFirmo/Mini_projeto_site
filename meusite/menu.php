@@ -2,7 +2,7 @@
 	<div class="container">
 		<div class="navbar-header">
                 <a class="navbar-brand" href="index.php">
-                    <img src="logo.jpg" class="img-circle" width="50" height="30"  alt="">
+                    <img src="imagens/logo.jpg" class="img-circle" width="50" height="30"  alt="">
                 </a>
           </div>
 			<ul class="nav navbar-nav">
